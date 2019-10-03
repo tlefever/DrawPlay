@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+commit 5a1ee617d9d0809a9b130243b14dfae908b6483e
+Author: Tyson Lefever <tlefever@mines.edu>
+Date:   Wed Oct 2 20:43:44 2019 -0600
+
+    changed the frame back to a more desirable size, and adjusted the colors and the message so that the cat now looks like kirby
+
+>>>>>>> c10f0584ba476e381dd66a76b50b6626850483de
 commit d001fb02c6128725c2e671960c8751d5c66f2d93
 Author: Gavin Webster <webster@mines.edu>
 Date:   Wed Oct 2 20:18:56 2019 -0600
