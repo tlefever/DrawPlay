@@ -1,12 +1,28 @@
-<<<<<<< HEAD
-=======
+commit 39890368cbb5caaab39c2652f2dae766b3104063
+Merge: 14c13d0 c10f058
+Author: Gavin Webster <webster@mines.edu>
+Date:   Wed Oct 2 20:59:00 2019 -0600
+
+    Changed eye color to black
+
+commit 14c13d062ffa326856342846c827b206d6c6405b
+Author: Gavin Webster <webster@mines.edu>
+Date:   Wed Oct 2 20:55:57 2019 -0600
+
+    error testing
+
+commit c10f0584ba476e381dd66a76b50b6626850483de
+Author: Tyson Lefever <tlefever@mines.edu>
+Date:   Wed Oct 2 20:44:35 2019 -0600
+
+    committed the log
+
 commit 5a1ee617d9d0809a9b130243b14dfae908b6483e
 Author: Tyson Lefever <tlefever@mines.edu>
 Date:   Wed Oct 2 20:43:44 2019 -0600
 
     changed the frame back to a more desirable size, and adjusted the colors and the message so that the cat now looks like kirby
 
->>>>>>> c10f0584ba476e381dd66a76b50b6626850483de
 commit d001fb02c6128725c2e671960c8751d5c66f2d93
 Author: Gavin Webster <webster@mines.edu>
 Date:   Wed Oct 2 20:18:56 2019 -0600
