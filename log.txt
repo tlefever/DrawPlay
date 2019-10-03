@@ -1,3 +1,21 @@
+commit d001fb02c6128725c2e671960c8751d5c66f2d93
+Author: Gavin Webster <webster@mines.edu>
+Date:   Wed Oct 2 20:18:56 2019 -0600
+
+    Changed frame size.
+
+commit 49eb7fc49d5f6765edef3b1765656e3eb815ac15
+Author: tlefever <54827172+tlefever@users.noreply.github.com>
+Date:   Wed Oct 2 20:13:31 2019 -0600
+
+    Added src files via upload
+
+commit 8990cf84d16b79c83b7d36aea52da5052597a153
+Author: Tyson Lefever <tlefever@mines.edu>
+Date:   Wed Oct 2 19:43:36 2019 -0600
+
+    Commit git log
+
 commit 6b6f3831c55c058afbe743f965e12a5c217644e6
 Author: Tyson Lefever <tlefever@mines.edu>
 Date:   Wed Oct 2 19:36:57 2019 -0600
