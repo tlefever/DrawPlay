@@ -1,0 +1,11 @@
+commit 6b6f3831c55c058afbe743f965e12a5c217644e6
+Author: Tyson Lefever <tlefever@mines.edu>
+Date:   Wed Oct 2 19:36:57 2019 -0600
+
+    added gitignore
+
+commit 6d03d54f0d4b25f6763c6ef913a66cc45868fdef
+Author: tlefever <54827172+tlefever@users.noreply.github.com>
+Date:   Wed Oct 2 19:12:09 2019 -0600
+
+    Initial commit
